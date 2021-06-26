@@ -1,0 +1,50 @@
+{
+    "Details": [
+        {
+            "Category": "Infantiles", "Product": "Moda", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Trajes de Baño, Calzonetas, y Pelotas Playeras."},
+
+        {
+            "Category": "Infantiles", "Product": "Juguetes", 
+            "Stock":"Si", "Temp": "Navidad", 
+            "Desc":"Suéteres, Abrigos, Adornos Navideños."},
+
+        {
+            "Category": "Damas", "Product": "Moda", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Vestidos, Shorts, Alpargatas, Palazos."},
+
+        {
+            "Category": "Damas", "Product": "Maquillaje", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Base, Polvos, Palettes, Lipgloss, Primer, Setting Spray y Mucho Más."},
+
+        {
+            "Category": "Caballeros", "Product": "Moda", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Tenis, Playeras, Shorts, Gorras." },
+
+        {
+            "Category": "Caballeros", "Product": "Tecnología", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Celulares, Consolas de Videojuego, Audífonos, Parlantes."},
+        {
+            "Category": "Hogar", "Product": "Linea Blanca", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Productos de Cocina."},
+       
+        {
+            "Category": "Hogar", "Product": "Muebles", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Amueblamos tu hogar con los mejores materiales elegantes."},
+        {
+            "Category": "Deportes", "Product": "Accesorios", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Bandas Elásticas, Pelotas de Pilates, Rollers, Mats. "},
+        {
+            "Category": "Deportes", "Product": "Maquinas", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Escalador, Spining Machine, Orbi Treck, Ab Tomic."}
+          ]
+         }

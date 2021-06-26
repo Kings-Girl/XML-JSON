@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tienda_virtual>
+
+<category>
+    <content>
+    <name> Infantiles </name>
+    <code> I-4578 </code>  
+    <img> <i class="fas fa-child"></i> </img>
+    <desc> Juegos Educativos, Peluches, Ositos de Goma.  </desc>
+    </content>
+</category>
+
+<category>
+    <content>
+    <name> Damas </name>
+    <code> D-4585  </code>
+    <img> <i class="fas fa-female"></i></img>
+    <desc> Vestidos, Tacones y Maquillaje.  </desc>
+        </content>
+</category>
+
+<category>   
+    <content>   
+    <name> Caballeros </name>     
+    <code> C-4596 </code> 
+    <img> <i class="fas fa-male"></i> </img>
+    <desc> Corbatas, Calzoncillos, Tangas, Sombreros.  </desc>
+    </content>
+</category>
+
+    <category>
+    <content>
+    <name> Deportes </name>
+    <code> X-8675 </code>
+    <img>  <i class="fas fa-futbol"></i> </img>
+    <desc> Licras, Zapatos Deportivos, Balones y Medicina Anti-Inflamatoria.   </desc>
+    </content>
+</category>
+
+<category>
+    <content>
+    <name> Hogar </name>
+    <code> H-8576  </code>
+    <img> <i class="fas fa-home"></i> </img>
+    <desc> Electrodomésticos, Artículos de Baño, Productos de Limpieza.  </desc>
+    </content>
+</category>
+
+
+</Tienda_virtual>
